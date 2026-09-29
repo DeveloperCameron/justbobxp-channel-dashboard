@@ -18,7 +18,7 @@ This project pulls daily channel statistics and video metadata directly from the
 ## Tools & Process
 
 - **Data source:** VidIQ API (channel stats + video metadata)
-- **Data processing:** Python (cleaning, categorization, CSV export)
+- **Data processing:** Cleaned and categorized in Python (script not included in this repo)
 - **Visualization:** Tableau Public
 
 ## Repo Contents
