@@ -12,7 +12,7 @@ This project pulls daily channel statistics and video metadata directly from the
 
 - **Viral growth event:** Total views jumped from ~96K to ~280K between March 5–31, 2026 — a roughly 190% increase in under a month, following a long flat period in January and February.
 - **Two distinct spike windows:** A primary spike in early-to-mid March (peaking at ~38K views in a single day) and a smaller secondary spike in mid-May (~6–7K/day).
-- **Content category dominance:** Of the channel's top-performing Shorts, content tagged under "Jujutsu Shenanigans (JJS)" outnumbers every other category combined, confirming it as the channel's strongest content pillar.
+- **Content category dominance:** Of the 50 top-performing Shorts, 26 are tagged "Jujutsu Shenanigans (JJS)" — just over half, and more than every other category combined (24), making it the channel's strongest content pillar.
 - **Data quality note:** A small negative dip in views around January 24 reflects a real YouTube view-count correction (likely invalid/bot view removal) rather than a data error — flagged and retained rather than smoothed over.
 
 ## Tools & Process
